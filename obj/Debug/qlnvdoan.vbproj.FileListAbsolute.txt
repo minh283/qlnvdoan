@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\bin\Debug\qlnvdoan.exe.config
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\bin\Debug\qlnvdoan.exe
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\bin\Debug\qlnvdoan.pdb
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\bin\Debug\qlnvdoan.xml
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\obj\Debug\qlnvdoan.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\obj\Debug\qlnvdoan.Resources.resources
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\obj\Debug\qlnvdoan.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\obj\Debug\qlnvdoan.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\obj\Debug\qlnvdoan.exe
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\obj\Debug\qlnvdoan.xml
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\obj\Debug\qlnvdoan.pdb
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\obj\Debug\qlnvdoan.exe.config
+C:\Users\Admin\source\repos\qlnvdoan\qlnvdoan\obj\Debug\qlnvdoan.Form1.resources
